@@ -1,6 +1,6 @@
 # Mars_Landing_page
 
-Huge Credits to Liliia Chan on Behance for amzing design concept
+Huge Credits to Liliia Chan on Behance for amazing design concept
 
 Project Overview:
 This concept was created to help Elon Musk (Founder, CEO and
