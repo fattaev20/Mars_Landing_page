@@ -137,6 +137,10 @@ body{
     transition: 0.3s linear;
 }
 
+.marsimg img{
+    width:500px;
+}
+
 .marsimg{
     display: flex;
     flex-direction: column;
