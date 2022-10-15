@@ -69,7 +69,7 @@ body{
 .p1 img{
     transition: 0.3s linear;
     position: relative;
-   
+    width: 500px;
 }
 .p1 img:hover{
     padding: 5%;
@@ -142,6 +142,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 500px;
 }
 .marsimg h1{
     color: aliceblue;
