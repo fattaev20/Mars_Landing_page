@@ -120,7 +120,6 @@ body{
 .texts .text {
     color: rgb(68, 68, 68);
     width: 50%;
-    margin: 50px;
     padding: 25px;
     transition: 0,3s linear;
     border-radius: 50px;
